@@ -1,0 +1,6 @@
+framework module Pods_Derby_Session {
+  umbrella header "Pods-Derby Session-umbrella.h"
+
+  export *
+  module * { export * }
+}
